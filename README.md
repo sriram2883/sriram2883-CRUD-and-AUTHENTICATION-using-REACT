@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### server initialization
+
+To inititalize the server move to server.js and start it using node server.js
+**Note that the nodemodules are installed and the database username and passwords are modified.**
+
 ### `npm start`
 
 Runs the app in the development mode.\
